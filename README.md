@@ -1,4 +1,3 @@
-<!-- fallback_BlockExplorerLegend_20260901141220_30573 -->
 
 # BlockExplorerLegend
 
